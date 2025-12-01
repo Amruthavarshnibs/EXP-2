@@ -49,31 +49,31 @@ Procedure for Load test:
 
 Tabulation for Open Circuit Test
 
-![ex02_page-0002](https://github.com/user-attachments/assets/2a196c15-2b9c-4d47-b409-0a13c9326988)
+<img width="635" height="800" alt="image" src="https://github.com/user-attachments/assets/dbdb7119-0d95-4316-a8d2-a49eba3695a4" />
+
+<img width="525" height="700" alt="image" src="https://github.com/user-attachments/assets/77b8cf67-58cb-4941-94d9-b02272b25e7b" />
+<img width="525" height="700" alt="image" src="https://github.com/user-attachments/assets/564f4d08-0612-44df-ba4b-f9262d85b958" />
+<img width="525" height="700" alt="image" src="https://github.com/user-attachments/assets/74dbb72c-db90-423c-8288-3f840cb9c4ae" />
 
 
-Tabulation for Load Test:
 
-![ex02_page-0004](https://github.com/user-attachments/assets/222be347-a118-45f5-962d-4914e5ecd88c)
+## output
 
-
-Model graph:
-
-![ex02_page-0005](https://github.com/user-attachments/assets/14fc6c4e-1c68-4314-841a-1e7011f38bd0)
+<img width="478" height="273" alt="image" src="https://github.com/user-attachments/assets/1adc38aa-b01e-4aaa-a1fc-9b278ce57b63" />
 
 
-Calculation: 
+
+<img width="478" height="373" alt="image" src="https://github.com/user-attachments/assets/407e7184-072e-47bf-b21e-d83871ddefc8" />
 
 
-Open circuit characteristics
-
-<img width="1920" height="1200" alt="ex02" src="https://github.com/user-attachments/assets/c7183829-0ae7-47df-87ff-e8fbac72b039" />
 
 
-  
-Load Characteristics:
 
-<img width="1919" height="999" alt="ex02-2" src="https://github.com/user-attachments/assets/220f9b32-6bae-4fe0-a130-15197aad6a83" />
+
+<img width="478" height="373" alt="image" src="https://github.com/user-attachments/assets/ff8e0720-507b-4380-9dd2-ae5ad0d6f276" />
+
+
+
 
  
 Result:
